@@ -3,8 +3,12 @@ Brock Lesner
 Undertaker
 Jaroco
 
+<<<<<<< HEAD
 khali
 
 Rock 
 
 Goldberg
+=======
+khali
+>>>>>>> parent of 622b91b... The khali added
