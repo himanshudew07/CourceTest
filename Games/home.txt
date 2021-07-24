@@ -4,8 +4,13 @@ two
 
 three
 
+<<<<<<< HEAD
 four
 =======
 
 Exp-1
 
+=======
+Exp-1
+Exp2
+>>>>>>> Exp
